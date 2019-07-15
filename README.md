@@ -1,4 +1,4 @@
-# fChart分類專案範例
+# fChart分類專案範例 - 教學的好幫手
 這是分成十類共約150個fChart流程圖專案, 可以作為程式設計的學習單, 作業或考試題目, 因為提供的是可執行的流程圖, 即程式的演算法, 所以適用各種程式語言:C/C++, C#, Python, Java, JavaScript, VB和PHP等.
 
 fChart工具的github網址: https://fchart.github.io
