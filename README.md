@@ -6,7 +6,9 @@ fChart分類專案範例 - 教學的好幫手
 
 * Cake Blockly for C的測試網址: https://hueyanchen.github.io
 
-* fChartBlockly5.4SE.zip是支援繁體, 簡體和英文使用介面的多國語系版本. 
+* fChartBlockly5.4SE.zip是支援繁體, 簡體和英文使用介面的多國語系版本, 可以使用fChartSetting.exe來指令語言. 
+
+* fChart5.zip是fChart標準版的多個語言版本, 支援繁體, 簡體和英文, 可以使用fChartSetting.exe來指令語言.
 
 fChart教學工具軟體文件和Blockly中文離線版提供個人, 學生與老師教學完全免費使用，商業用途需取得授權。<br/>
              Copyright &copy; 陳會安 2019 hueyan@ms2.hinet.net</p>
