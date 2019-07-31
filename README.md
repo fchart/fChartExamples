@@ -8,7 +8,7 @@ fChart分類專案範例 - 教學的好幫手
 
 * fChartBlockly5.4SE.zip : fChart 直譯器 + Blockly 積木程式的版本,支援繁體, 簡體和英文使用介面的多國語系版本, 可以使用 fChartSetting.exe 來指定介面語言. 
 
-* fChart5.zip : fChart 標準版的多國語言版本, 支援繁體, 簡體和英文, 可以使用 fChartSetting.exe 來指定介面語言.
+* fChart5_??.zip : fChart 標準版的多國語言版本, 支援繁體, 簡體和英文, 可以使用 fChartSetting.exe 來指定介面語言.
 
 fChart 教學工具軟體文件和Blockly中文離線版提供個人, 學生與老師教學完全免費使用，商業用途需取得授權。<br/>
              Copyright &copy; 陳會安 2019 hueyan@ms2.hinet.net</p>
