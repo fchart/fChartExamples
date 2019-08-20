@@ -156,7 +156,7 @@ id13
 412       	 <--TOP
 112       	 <--WIDTH
 40       	 <--HEIGHT
-0       	 <--BACKCOLOR
+16777215       	 <--BACKCOLOR
 16711680       	 <--BORDERCOLOR
 0       	 <--BORDERCOLOR
 -reserved 1-
